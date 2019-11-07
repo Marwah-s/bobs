@@ -319,7 +319,7 @@ img {
   grid-row: 1;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  color: #E98F5A;
+  color: white;
   background-color: #FDE4D3;
   align-items: center;
 }
