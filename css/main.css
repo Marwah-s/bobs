@@ -319,7 +319,7 @@ img {
   grid-row: 1;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  color: white;
+  color: #6FACB0;
   background-color: #FDE4D3;
   align-items: center;
 }
@@ -342,7 +342,7 @@ img {
 }
 
 #nav a {
-  color: white;
+  color: #6FACB0;
 }
 
 #social {
@@ -373,7 +373,7 @@ img {
 }
 
 #nav-mobile a {
-  color: white;
+  color: #6FACB0;
 }
 
 
