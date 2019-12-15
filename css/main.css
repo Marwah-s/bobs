@@ -598,6 +598,18 @@ a {
   #menu {
     display: block;
   }
+   
+  #startsida #box1 {
+    grid-row: 1;
+  }
+
+  #startsida #box2 {
+    grid-row: 2;
+  }
+
+  #startsida #box3 {
+    grid-row: 3;
+  }
 
   body {
     font-size: 70%;
